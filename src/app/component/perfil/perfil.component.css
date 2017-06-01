@@ -1,8 +1,29 @@
+body{
+
+}
 .title{
   text-align: center;
+  color: green;
 }
 .row {
   text-align: center;
   width: 100%;
+}
+a{
+  color: darkgreen;
+}
 
+button{
+  background-color: darkgreen;
+  color: white;
+}
+label{
+  font-weight: bold;
+  color: green;
+  text-align: right;
+}
+
+.card.col{
+  margin-left: 20px;
+  margin-right:20px ;
 }

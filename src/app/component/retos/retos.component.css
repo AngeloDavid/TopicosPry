@@ -1,0 +1,16 @@
+.herramientas{
+  padding-top: 3%;
+  padding-bottom: 3%;
+
+}
+.herramientas .form-control{
+  display: inline-block;
+  width: 80%;
+}
+.list-group{
+  width: 100%;
+}
+
+.list-group-item.active{
+  background-color: darkgreen;
+}
