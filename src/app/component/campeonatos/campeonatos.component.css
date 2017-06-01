@@ -1,0 +1,21 @@
+.content{
+  text-align: center;
+  width: 400px;
+}
+.contenedor{
+  width: 1200px;
+  display: flex;
+  margin: auto auto;
+}
+
+.title{
+  text-align: center;
+  display: flex;
+  margin-left: 500px;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+#img-title{
+  margin-left: 10px;
+  width: 50px;
+}
