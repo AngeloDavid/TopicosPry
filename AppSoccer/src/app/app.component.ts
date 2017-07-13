@@ -27,8 +27,8 @@ export class MyApp {
       { title: 'CampeonatosPage', component: CampeonatosPage, icon:'ios-podium' },
       { title: 'Mis partidos', component: MisPartidosPage, icon:'ios-calendar' },
       { title: 'Mis Retos', component: MisRetosPage, icon:'ios-git-compare' },
-      { title: 'Mi Perfil', component: MiperfilPage, icon:'ios-contact' },
-      { title: 'List', component: ListPage,icon:'' }
+      { title: 'Mi Perfil', component: MiperfilPage, icon:'ios-contact' }
+      // { title: 'List', component: ListPage,icon:'' }
 
     ];
 
