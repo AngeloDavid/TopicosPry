@@ -7,3 +7,4 @@ export {MisPartidosPage} from "./mis-partidos/mis-partidos";
 export {MisRetosPage} from "./mis-retos/mis-retos";
 export {CampeonatosPage}   from "./campeonatos/campeonatos";
 export {MiperfilPage} from "./miperfil/miperfil"  ;
+export {CanchaPage} from "./cancha/cancha";
